@@ -147,8 +147,8 @@ Includes:
 ## Files Included
 
 - notebook_analysis.ipynb
-- table_join_query.sql
-- joined_dataset.csv
+- join_table_query.sql
+- joined_dataframe.csv
 - excel_dashboard.png
 - analysis-powerbi.pdf
 - analysis-powerbi.pbix
